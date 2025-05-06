@@ -1,24 +1,14 @@
 # wdd430-reactfoundations
 
-This repository contains my work for the **WDD 430: Web Full-Stack Development** course at BYU-Idaho.  
+This repository contains my learning activities work for the **WDD 430: Web Full-Stack Development** course at BYU-Idaho.  
 It focuses on foundational JavaScript and React concepts using the official [Next.js React Foundations Tutorial](https://nextjs.org/learn/react-foundations).
 
 ## 📚 Course Resource
 
 All learning materials and tutorials come from the official Next.js documentation:  
-➡️ [React Foundations – Next.js](https://nextjs.org/learn/react-foundations)
-
-## 📌 Chapters Completed
-
-These are the chapters I’ve completed so far as part of this learning activity:
-
-1. **About React and Next.js**  
-2. **Rendering User Interfaces (UI)**  
-3. **Updating UI with JavaScript**  
-4. **Getting Started with React**  
-5. **Building UI with Components**  
-6. **Displaying Data with Props**  
-7. **Adding Interactivity with State**
+➡️ [React Foundations Tutorial](https://nextjs.org/learn/react-foundations)
+➡️ [Essential JavaScript for React](https://nextjs.org/learn/react-foundations/getting-started-with-react#essential-javascript-for-react)
+➡️ [Next.js Documentation](https://nextjs.org/docs)
 
 ## 📝 Purpose
 
